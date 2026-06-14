@@ -105,6 +105,6 @@ The highly volatile nature of the consumer electronics landscape makes it diffic
    git clone https://github.com/yashpatel85/mobile_sales_dashboard.git
    ```
 2. **Open the Report:** 
-   * Ensure you have the latest version of [Power BI Desktop](https://microsoft.com) installed.
+   * Ensure you have the latest version of [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) installed.
    * Open the `.pbix` file located in the root directory.
 3. **Explore Visuals:** Use the left-side navigation panel buttons to toggle between the **Dashboard view**, **MTD Report**, and **Same Period Last Year** pages. Filter by Brand, Model, or Date utilizing the slicers at the top of the canvas.
